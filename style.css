@@ -19,7 +19,7 @@
   transform: translate(-50%,-50%);
   top:50%;
   left:50%;
-  padding: 10px;
+  padding: 10px 20px;
   box-shadow: -1px 4px 25px #B2B3BB;
   border-radius: 10px;
 }
